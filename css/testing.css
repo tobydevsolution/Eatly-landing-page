@@ -1,0 +1,17 @@
+.wrapper {
+  width: 900px;
+  height: 700px;
+  /* background: linear-gradient(to right, rgba(255, 0, 0, 0), rgba(255, 0, 0, 1)); */
+  /* 
+  background: rgb(172, 125, 253);
+  background: linear-gradient(0deg, rgba(172, 125, 253, 1) 0%); */
+
+  background: linear-gradient(
+    to right,
+
+    rgba(135, 68, 244),
+    rgba(172, 125, 253, 1),
+    rgb(211, 124, 116),
+    rgb(248, 247, 247) 2%
+  );
+}
